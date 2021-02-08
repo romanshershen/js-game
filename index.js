@@ -11,6 +11,8 @@ const modalEl = document.querySelector('#modalEl')
 const bigScoreEl = document.querySelector('#bigScoreEl')
 
 
+
+
 class Player{
 	constructor(x, y, radius, color){
 		this.x = x
